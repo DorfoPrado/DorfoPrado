@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Rodolfo Arruda Prado</h1>
-<h3 align="center">Estou em busca de conhecimento e focado em conseguir entrar para esse mundo apaixonante que é a programação.</h3>
+<h3 align="center">Estou em busca de uma oportunidade de mostrar minhas habilidades como um futuro programador.</h3>
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS, JAVASCRIPT E JAVA**
 
