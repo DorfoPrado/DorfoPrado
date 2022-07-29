@@ -19,9 +19,9 @@
 
 
 
-Oi meu nome é Rodolfo Arruda Prado, tenho 32 anos e estou fazendo uma transação de area de trabalho.
+Oi meu nome é Rodolfo Arruda Prado, tenho 32 anos e estou fazendo uma transição de área de trabalho.
 Atualmente estou cursando Tecnologia em Analise e Desemvolvimento de Sistemas na universidade Anhanguera-sp,
-em conjunto a isso estou concluindo cursos na plataforma Alura, ja concluí alguns cursos como Lógica de Programação, HTML, CSS, JAVASCRIPT E JAVA.
+em conjunto a isso estou concluindo cursos na plataforma Alura, ja concluí alguns cursos como Lógica de Programação, HTML, CSS, JAVASCRIPT, MySql e JAVA.
 
 
 <!--
